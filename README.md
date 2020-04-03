@@ -1,5 +1,5 @@
-#MyApp
+# MyApp
 This is my App.
 
-#my new text
+## My New Text
 It is new text.
